@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Glavnyi_ikran_gonka"
